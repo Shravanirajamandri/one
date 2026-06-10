@@ -786,7 +786,7 @@
     <!-- Header -->
     <header>
         <div class="container header-container">
-            <a href="#" class="logo">shrvzz <span>Shop</span></a>
+            <a href="#" class="logo">shrvzz <span>wadrobe</span></a>
             
             <nav id="mainNav">
                 <ul>
@@ -817,7 +817,7 @@
             <div class="header-icons">
                 <a href="#"><i class="far fa-user"></i></a>
                 <a href="#"><i class="far fa-heart"></i></a>
-                <a href="#"><i class="fas fa-shopping-cart"></i><span class="cart-count">3</span></a>
+                <a href="#"><i class="fas fa-wadrobeping-cart"></i><span class="cart-count">3</span></a>
                 <button class="mobile-menu-btn" id="mobileMenuBtn"><i class="fas fa-bars"></i></button>
             </div>
         </div>
@@ -1011,7 +1011,7 @@
         <div class="testimonial-slider">
             <div class="testimonial-card">
                 <div class="rating">★★★★★</div>
-                <p>"I've never had such a smooth shopping experience. The products are top quality and exactly as described. Delivery was super fast too!"</p>
+                <p>"I've never had such a smooth wadrobeping experience. The products are top quality and exactly as described. Delivery was super fast too!"</p>
                 <div class="user-info">
                     <img src="https://randomuser.me/api/portraits/Latest Women's/43.jpg" alt="Sarah J." class="user-avatar">
                     <div>
@@ -1033,7 +1033,7 @@
             </div>
             <div class="testimonial-card">
                 <div class="rating">★★★★★</div>
-                <p>"The flash deals are amazing! I got a brand new laptop for 25% off. Will definitely be shopping here again."</p>
+                <p>"The flash deals are amazing! I got a brand new laptop for 25% off. Will definitely be wadrobeping here again."</p>
                 <div class="user-info">
                     <img src="https://randomuser.me/api/portraits/Latest Women's/65.jpg" alt="Emma L." class="user-avatar">
                     <div>
@@ -1073,7 +1073,7 @@
         <div class="container">
             <div class="footer-container">
                 <div class="footer-col">
-                    <h3>shrvzz Shop</h3>
+                    <h3>shrvzz wadrobe</h3>
                     <p>Your one-stop destination for all the latest products in technology, fashion, and lifestyle.</p>
                     <div class="social-links">
                         <a href="#"><i class="fab fa-facebook-f"></i></a>
@@ -1083,7 +1083,7 @@
                     </div>
                 </div>
                 <div class="footer-col">
-                    <h3>Shop</h3>
+                    <h3>wadrobe</h3>
                     <ul>
                         <li><a href="#">All Products</a></li>
                         <li><a href="#">Featured Items</a></li>
@@ -1121,7 +1121,7 @@
             </div>
             
             <div class="footer-bottom">
-                <p>&copy; 2023 shrvzz Shop. All rights reserved.</p>
+                <p>&copy; 2023 shrvzz wadrobe. All rights reserved.</p>
             </div>
         </div>
     </footer>
