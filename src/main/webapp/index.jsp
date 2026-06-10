@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>shrvzz Shop - Modern E-Commerce</title>
+    <title>shrvzz wadrobe- Modern E-Commerce</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Poppins:wght@600;700&display=swap" rel="stylesheet">
     <style>
@@ -829,7 +829,7 @@
             <h1>School Reopen offer  </h1>
             <p>Discover the latest trends in fashion, technology and accessories with up to 50% off selected items</p>
             <div class="hero-buttons">
-                <a href="#" class="btn btn-primary">Shop Now</a>
+                <a href="#" class="btn btn-primary">wadrobeNow</a>
                 <a href="#" class="btn btn-secondary">Explore Deals</a>
             </div>
         </div>
@@ -838,7 +838,7 @@
     <!-- Categories Section -->
     <section class="container">
         <div class="section-title">
-            <h2>Shop by Category</h2>
+            <h2>wadrobeby Category</h2>
             <p>Browse through our wide range of products in different categories</p>
         </div>
         
