@@ -826,7 +826,7 @@
     <!-- Hero Section -->
     <section class="hero">
         <div class="hero-content">
-            <h1>Women  wadrobe in amazon  </h1>
+            <h1>Latest Women's  wadrobe in amazon  </h1>
             <p>Discover the latest trends in fashion, technology and accessories with up to 50% off selected items</p>
             <div class="hero-buttons">
                 <a href="#" class="btn btn-primary">Shop Now</a>
@@ -1013,7 +1013,7 @@
                 <div class="rating">★★★★★</div>
                 <p>"I've never had such a smooth shopping experience. The products are top quality and exactly as described. Delivery was super fast too!"</p>
                 <div class="user-info">
-                    <img src="https://randomuser.me/api/portraits/women/43.jpg" alt="Sarah J." class="user-avatar">
+                    <img src="https://randomuser.me/api/portraits/Latest Women's/43.jpg" alt="Sarah J." class="user-avatar">
                     <div>
                         <div class="user-name">Sarah J.</div>
                         <div class="user-title">Verified Buyer</div>
@@ -1035,7 +1035,7 @@
                 <div class="rating">★★★★★</div>
                 <p>"The flash deals are amazing! I got a brand new laptop for 25% off. Will definitely be shopping here again."</p>
                 <div class="user-info">
-                    <img src="https://randomuser.me/api/portraits/women/65.jpg" alt="Emma L." class="user-avatar">
+                    <img src="https://randomuser.me/api/portraits/Latest Women's/65.jpg" alt="Emma L." class="user-avatar">
                     <div>
                         <div class="user-name">Emma L.</div>
                         <div class="user-title">Verified Buyer</div>
