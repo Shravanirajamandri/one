@@ -786,7 +786,7 @@
     <!-- Header -->
     <header>
         <div class="container header-container">
-            <a href="#" class="logo">shrvzz <span>wadrobe</span></a>
+            <a href="#" class="logo">GAALI GADZETS <span>wadrobe</span></a>
             
             <nav id="mainNav">
                 <ul>
