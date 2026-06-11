@@ -786,7 +786,7 @@
     <!-- Header -->
     <header>
         <div class="container header-container">
-            <a href="#" class="logo">GAALI GADZETS <span>wadrobe</span></a>
+            <a href="#" class="logo">GAALI <span>GADZETS</span></a>
             
             <nav id="mainNav">
                 <ul>
@@ -817,7 +817,7 @@
             <div class="header-icons">
                 <a href="#"><i class="far fa-user"></i></a>
                 <a href="#"><i class="far fa-heart"></i></a>
-                <a href="#"><i class="fas fa-wadrobeping-cart"></i><span class="cart-count">3</span></a>
+                <a href="#"><i class="fas fa-GADZETSping-cart"></i><span class="cart-count">3</span></a>
                 <button class="mobile-menu-btn" id="mobileMenuBtn"><i class="fas fa-bars"></i></button>
             </div>
         </div>
@@ -829,7 +829,7 @@
             <h1>School Reopen offer  </h1>
             <p>Discover the latest trends in fashion, technology and accessories with up to 50% off selected items</p>
             <div class="hero-buttons">
-                <a href="#" class="btn btn-primary">wadrobeNow</a>
+                <a href="#" class="btn btn-primary">GADZETSNow</a>
                 <a href="#" class="btn btn-secondary">Explore Deals</a>
             </div>
         </div>
@@ -838,7 +838,7 @@
     <!-- Categories Section -->
     <section class="container">
         <div class="section-title">
-            <h2>wadrobeby Category</h2>
+            <h2>GADZETSby Category</h2>
             <p>Browse through our wide range of products in different categories</p>
         </div>
         
@@ -1011,7 +1011,7 @@
         <div class="testimonial-slider">
             <div class="testimonial-card">
                 <div class="rating">★★★★★</div>
-                <p>"I've never had such a smooth wadrobeping experience. The products are top quality and exactly as described. Delivery was super fast too!"</p>
+                <p>"I've never had such a smooth GADZETSping experience. The products are top quality and exactly as described. Delivery was super fast too!"</p>
                 <div class="user-info">
                     <img src="https://randomuser.me/api/portraits/Latest Women's/43.jpg" alt="Sarah J." class="user-avatar">
                     <div>
@@ -1033,7 +1033,7 @@
             </div>
             <div class="testimonial-card">
                 <div class="rating">★★★★★</div>
-                <p>"The flash deals are amazing! I got a brand new laptop for 25% off. Will definitely be wadrobeping here again."</p>
+                <p>"The flash deals are amazing! I got a brand new laptop for 25% off. Will definitely be GADZETSping here again."</p>
                 <div class="user-info">
                     <img src="https://randomuser.me/api/portraits/Latest Women's/65.jpg" alt="Emma L." class="user-avatar">
                     <div>
@@ -1083,7 +1083,7 @@
                     </div>
                 </div>
                 <div class="footer-col">
-                    <h3>wadrobe</h3>
+                    <h3>GADZETS</h3>
                     <ul>
                         <li><a href="#">All Products</a></li>
                         <li><a href="#">Featured Items</a></li>
