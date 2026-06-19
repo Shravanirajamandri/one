@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>GAALI GADZETS- Modern E-Commerce</title>
+    <title>Electronic Gadgets- Modern E-Commerce</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Poppins:wght@600;700&display=swap" rel="stylesheet">
     <style>
@@ -786,7 +786,7 @@
     <!-- Header -->
     <header>
         <div class="container header-container">
-            <a href="#" class="logo">GAALI <span>GADZETS</span></a>
+            <a href="#" class="logo">Electronic <span>Gadgets</span></a>
             
             <nav id="mainNav">
                 <ul>
@@ -817,7 +817,7 @@
             <div class="header-icons">
                 <a href="#"><i class="far fa-user"></i></a>
                 <a href="#"><i class="far fa-heart"></i></a>
-                <a href="#"><i class="fas fa-GADZETSping-cart"></i><span class="cart-count">3</span></a>
+                <a href="#"><i class="fas fa-Gadgetsping-cart"></i><span class="cart-count">3</span></a>
                 <button class="mobile-menu-btn" id="mobileMenuBtn"><i class="fas fa-bars"></i></button>
             </div>
         </div>
@@ -829,7 +829,7 @@
             <h1>School Reopen offer  </h1>
             <p>Discover the latest trends in fashion, technology and accessories with up to 50% off selected items</p>
             <div class="hero-buttons">
-                <a href="#" class="btn btn-primary">GADZETSNow</a>
+                <a href="#" class="btn btn-primary">GadgetsNow</a>
                 <a href="#" class="btn btn-secondary">Explore Deals</a>
             </div>
         </div>
@@ -838,7 +838,7 @@
     <!-- Categories Section -->
     <section class="container">
         <div class="section-title">
-            <h2>GADZETSby Category</h2>
+            <h2>Gadgetsby Category</h2>
             <p>Browse through our wide range of products in different categories</p>
         </div>
         
@@ -1011,7 +1011,7 @@
         <div class="testimonial-slider">
             <div class="testimonial-card">
                 <div class="rating">★★★★★</div>
-                <p>"I've never had such a smooth GADZETSping experience. The products are top quality and exactly as described. Delivery was super fast too!"</p>
+                <p>"I've never had such a smooth Gadgetsping experience. The products are top quality and exactly as described. Delivery was super fast too!"</p>
                 <div class="user-info">
                     <img src="https://randomuser.me/api/portraits/Latest Women's/43.jpg" alt="Sarah J." class="user-avatar">
                     <div>
@@ -1033,7 +1033,7 @@
             </div>
             <div class="testimonial-card">
                 <div class="rating">★★★★★</div>
-                <p>"The flash deals are amazing! I got a brand new laptop for 25% off. Will definitely be GADZETSping here again."</p>
+                <p>"The flash deals are amazing! I got a brand new laptop for 25% off. Will definitely be Gadgetsping here again."</p>
                 <div class="user-info">
                     <img src="https://randomuser.me/api/portraits/Latest Women's/65.jpg" alt="Emma L." class="user-avatar">
                     <div>
@@ -1073,7 +1073,7 @@
         <div class="container">
             <div class="footer-container">
                 <div class="footer-col">
-                    <h3>GAALI GADZETS</h3>
+                    <h3>Electronic Gadgets</h3>
                     <p>Your one-stop destination for all the latest products in technology, fashion, and lifestyle.</p>
                     <div class="social-links">
                         <a href="#"><i class="fab fa-facebook-f"></i></a>
@@ -1083,7 +1083,7 @@
                     </div>
                 </div>
                 <div class="footer-col">
-                    <h3>GADZETS</h3>
+                    <h3>Gadgets</h3>
                     <ul>
                         <li><a href="#">All Products</a></li>
                         <li><a href="#">Featured Items</a></li>
@@ -1121,7 +1121,7 @@
             </div>
             
             <div class="footer-bottom">
-                <p>&copy; 2023 GAALI GADZETS. All rights reserved.</p>
+                <p>&copy; 2023 Electronic Gadgets. All rights reserved.</p>
             </div>
         </div>
     </footer>
